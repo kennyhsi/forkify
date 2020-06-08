@@ -1,0 +1,12 @@
+# compiled output
+dist
+
+# Dependencies
+node_modules
+
+# OS generated files #
+.DS_Store
+npm-debug.log
+
+# IDE and Editors
+.vscode
